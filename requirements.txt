@@ -1,0 +1,6 @@
+s3fs
+cloudpickle
+pandas
+moto
+pytest
+pytest-cov
