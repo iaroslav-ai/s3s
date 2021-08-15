@@ -7,7 +7,7 @@ AWS S3 Simplified - minimize amount of code for storing / loading / listing / de
 
 ## What this library can do
 
-```
+```python
 from s3s import S3
 
 # create s3 wrapper with root path s3://some-bucket/path1/path2
