@@ -22,7 +22,7 @@ CLASSIFIERS = [
 
 setup(name='s3s',
     version='1.0.0',
-    description='Sequential model-based optimization toolbox.',
+    description='Simplified interface to Amazon AWS S3 data storage service.',
     long_description=open('README.md').read(),
     url='https://github.com/iaroslav-ai/s3s',
     license='MIT',
